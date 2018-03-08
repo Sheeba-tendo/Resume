@@ -1,0 +1,245 @@
++﻿<!DOCTYPE html>
+<html lang="en">
+<title>Claire Tendo Portfolio</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size: 16px;}
+img {margin-bottom: -8px;}
+.mySlides {display: none;}
+</style>
+<body class="w3-content w3-black" style="max-width:1500px;">
+
+<!-- Header with Slideshow -->
+<header class="w3-display-container w3-center">
+  <button class="w3-button w3-block w3-green w3-hide-large w3-hide-medium" onclick="document.getElementById('download').style.display='button'" <a href="http://clairetendo-profile.bitballoon.com/">Back to profile</a></button>
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="https://lh3.googleusercontent.com/XV45CaP23o5WptrrAT1f_y-_2D_R0-47J0MoAWjX9jvMOhcBR39ytg8YIe922WsIRVJct0w5bdp3LKcL9A3DWTMorMLjbV1cgDXOW9-l9Hhb5hBx8-UlVbnJhU1rfnM9iaKJVNpTlZm8I9-X_RDTY93ia1IlFwMOnb3sZnr1YlN4jluQB0mw275HxvW-2vLIOBegXSffPQNKZt7McKrHng7dpaqymseXxhKI7UUY8soQJqBXHyz03PhzBPPIkh9ezIP8m4pFbTFzRThS0_ikSWT1fLghA-xqvuzIZ_S0xDqVTrlBKEBbK7EW3vlWCPdS20PDNfF-Ng9Nnzx4Oujj8y3ffH4T6T4fa4p-UrKNrRcG62WT0qvzlxWM_bdjTHzQugvBtYy4UJoCcCByaaqCegTWFif7cSQSg_Ztjf5DvPx_RapHmDynpouw94vpyWSf9U3W3s2ArTgO5R4HdQHRJnXriMDzpboZN73t75LfU3cclmw_qigMcQ0NBX73eVp4Vpz7sXlKCELWvahlXJ-psFm6FiPgYh5icecb5IYp7HHfCkolzjMOWGCO4YR1mLSGoY1jAhxoD5pzb0EkDjdUfk5g4cwDEiylt8oEgN-nsw=w1311-h874-no" alt="Image 1" style="min-width:500px" width="700" height="1000">
+
+   	<div class="w3-display-left w3-padding" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-round-large">
+        <h1 class="w3-xlarge">COLLECTIONS 2010 - 2015</h1>
+        <p><button><a class="w3-button w3-block w3-black w3-round onclick="document.getElementById('download').style.display='button'" 	href="file:///D:\PJ1\HTML FILES\resume.html">Back to profile</a></button></p>
+
+	</div>
+    </div>
+  </div>
+
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="https://lh3.googleusercontent.com/vys3RrNtQzjD_47jrYDltzW6u6oJVidNtHDdvFSQB_es7ZFm1-eCDhCABjaQpddD5dD-JFgp8FWL0G0djhZOEqCmW-C8WEN8r-f-tN7jL2y_RQV0MZNyIXjlF2B0EVldq0wtJLRpVNlxUkUIBJe46U-yYly_R8t6jb33JvsL4G8qwDkpnr3qaoVnM7mGWDZxF5IWEpk_KLLDNYfATbJTdHyaKtNdtN8W-7gz-s1yxhM2ut5RpZzXp0gUoVwWTNMnJNt_oSXqDdC8as-dXTTK0D8Az6__Ysyy4Ds5Cv5A8f6AGBzFWfEqFwVHhSvgfM-QFzcr1cjOxcau_gHNPah0E0-_yDwtrh98Jc6s3eX7zJlL-osMfELFTjJi5IFSbIkl4pNxnHcjoE7D7n1KCiBDPEa-HKoqodV3wXVpTMbQri-tOXo9Ou-Eact-N0wGnjmE_qIxv1SoalwXNfgYDjYZGxhna8_DQri2aFuQMS0lc0-wJVCR-KfQajO0Q5t5qQDtlIsL9niHWqOWaddKYnxmS9pLfd29QboufF-rPzaLffW2kGGQARh66mCAqf7zXQbDpwmbmstTzt9xJ1LDK_wLutGJq8rWH_6yzFE5Lig=w567-h849-no" alt="Image 2" style="min-width:500px" width="300" height="500">
+
+   	<div class="w3-display-left w3-padding" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-round-large">
+        <h1 class="w3-xlarge">COLLECTIONS 2010 - 2015</h1>
+        <p><button><a class="w3-button w3-block w3-black w3-round onclick="document.getElementById('download').style.display='button'" 	href="file:///D:\PJ1\HTML FILES\resume.html">Back to profile</a></button></p>
+
+	</div>
+    </div>
+  </div>
+
+
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="https://lh3.googleusercontent.com/CpMroRsoqSChdb7rBY5V_Vv2SnVCLTw_LzCH49ZweWVGumHNza5_BahKx1oMi3l2UxfqAzqQQt8vHnWXIJii8ZkgQnU9hJs48MUe05KBXm53marDOFEmx0GhtVI3Lv7Oz9zn5OE0syEfApVUvTEYU-c4_A9HCI8BsBMZIzEF4DCXH6rQ65G2-kYOH84jbcZxrcAUzGUV1gYfXqpsV123MPTOckegQCKlI08Rxe6_G9-nt_ogm-ylRJ1weBPM-8CUHPpuMjdmrpurCgNlVxdrRxWbrCCh4VwY5XYSdC1TYObpVqyXzIsqtANjg14LiuR46zunExzCcXRfG3oohQ0pTe8mz14cnRaI9HTiHhZg0TGYG4ZopdeEzm6tuqbfgiB9aq6v36wpxcuRurARUmZaOvoP9-6hmyjEk4a0I7HO-BAxh6qiHidM4sMA7_BCo0BuJxvTy4je5ZW52AgLCxoTCdUN1N2CprkrvnCq0WiLbQjpxq86F4GZiAtAfntdz_p5NBUZE3DzXL1T1ESKrEdbXhgce3vRJzb7IibDznJJqT4buLSI8B7P3ApFwoqVVII38PDNrwds611AWKjPB0SiJyLvw3zKlbw386eJ2NkVsg=w1152-h874-no" alt="Image 3" style="min-width:500px" width="1000" height="1000">
+
+   	<div class="w3-display-left w3-padding" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-round-large">
+        <h1 class="w3-xlarge">COLLECTIONS 2010 - 2015</h1>
+        <p><button><a class="w3-button w3-block w3-black w3-round onclick="document.getElementById('download').style.display='button'" 	href="file:///D:\PJ1\HTML FILES\resume.html">Back to profile</a></button></p>
+
+	</div>
+    </div>
+  </div>
+
+
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="https://lh3.googleusercontent.com/W6jNWfTmO5zdOFd3ccRMqK-U_f5uKEMA312cI5w0E2SD7XYGmbengqnXwfB6ReMS_crtHGQAL6rk2HQg9yx2RQKQAkdP2eG60-N65EFEFwThqya4Trcw4J_50r--zh5i4cS-TNGUlngx_Ecb7hCSmHI9oRlRxoN9zX0qtfa6rJlZCAffLUYYo3vx8RvT95GXDYtVR-x_KwuKzhHwCfdUZz8nQ-L_7u6Png2WWfBzNlwVRWIwprHTUhp7ZAcmsrBlrSUDsme01D3fxEeI0WoGVif7RUVX3gKeQSzovhcoEke69SHwdQGyJQFdKOBEFeHu8QubqqMRAwQX_OMJsGb-CPLwqmUoPDsvmWX2O9KPcuCLO_LdPlDwJih3nWZFbTro9UPJaBqvH_RmI9g5SSRTjGBcsvP98YLNkEMEUSCaejRYVcXajVxK-M-OFkjyisLAk3PdBTFTxW2usA7cLHWuk4krq6sDpCeSsVO55b6qCwjVwinjrbrCQidHbDGfRF76CLtokg2oxOZg5MAOFffveM3AR0572evPIQwVYXP8rqacRx0CR1kIhCtYIvU7t2N6-wsRhVdLK2NRhb3il4jN2vQUeCpzxBObAY59os0pLg=w556-h874-no" alt="Image 4" style="min-width:500px" width="500" height="1000">
+
+   	<div class="w3-display-left w3-padding" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-round-large">
+        <h1 class="w3-xlarge">COLLECTIONS 2010 - 2015</h1>
+        <p><button><a class="w3-button w3-block w3-black w3-round onclick="document.getElementById('download').style.display='button'" 	href="file:///D:\PJ1\HTML FILES\resume.html">Back to profile</a></button></p>
+
+	</div>
+    </div>
+  </div>
+
+
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="https://lh3.googleusercontent.com/-c5X2k-5iEF0O5TWcwKcSHTp0X-2ODPO6ynMYwfefl0NViIdxjpABSZaeJCXPfvrqC0kpDFJVjhgVcd3Zj3LQPZcykRWl004jW5M1Lm7bUOWSqpCGelmRP38bvn1pIRda9t1HZK1gclOurLNmqQnca5yVSAurq_RGed5NBqR2Fh3lAEdXawElaz3pk6l77-Gp24y3G9rhbm36mKPrenj4ksg29c9hDwMTnRw6oBCbaTaEGt9Ae6VslgUOHQofDFtVXca5Edkzxa2-8IWla0V_-KRKMtlaUTNDZho2qWWQhwG5whVZPAyUhsfWfMpt9gUPEuUK2BJ4EiVzv3YCjdXaLEnU_WSpuG0hJwnKLotA7OPm9ww4ZYE0bwklEUIuLrlUZG_7r8xlA-T-dScHh_DrBTS0BR4FDKXfQiiXcdF3mHTNC7CLCbhOtfmOJuftmLJtX1dkJNrjIYnIL2-bh5JRn9jDy7ehE05Tdzs0Db9TRBMDbfHamhAx4id360sM3z0vmwBGaGnU5RLPGLycMdhwq4TGSBUwVcjBPgb2flEDysWVI4nC4DA8NpJQijc86EngWIlmDudUSZ5FAg5gjKUmdiFGxkwJvoUGMSH72UnFQ=w583-h874-no" alt="Image 5" style="min-width:500px" width="500" height="1000">
+
+   	<div class="w3-display-left w3-padding" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-round-large">
+        <h1 class="w3-xlarge">COLLECTIONS 2010 - 2015</h1>
+        <p><button><a class="w3-button w3-block w3-black w3-round onclick="document.getElementById('download').style.display='button'" 	href="file:///D:\PJ1\HTML FILES\resume.html">Back to profile</a></button></p>
+
+	</div>
+    </div>
+  </div>
+
+
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="https://lh3.googleusercontent.com/60RT70lgpuQy--Qd6tm1SLwI4N1CNpkbkbsc0Gt1jgh4BlHqzY9EbpsNVQKzShGqYrF32NeSulZO0fN_HMdHs7SU-mXDzmtue7DFvEo8TAd8kvTUDMMoRJ1HVn3x4BYwDSiSAJonArKTzRQSKiT4ZOvKdUnvur0jfDDzTY74T944NcZmOYioHiOoTq2wNj7UWOsIB5t1oveSeO5SAlu2axRkX2cC_Wze-bjO359CP6c_iLsCQ-BpUz1b40UJ0RCD_WzVYCz-0v_2vtpFrphIC4U6REWjE7K8HLIbEO29UUNmujn1c8IBaVCFcIiQCd1zEODbda-EaF15bMpmfNjyKqQm4ZCD2D22dSk3WghxR8h65ADiWM8ibPxaH-iIpHUoImBXOSh5uUmcuI95mJX_jXJAjSO5_VaOQ1gaiOMsxv31liIqheohuV9alif1RR5uAQewlLpGmVIfyFbXJu4DRwZyJnwD1O09OMbBq01lcy0DDmPQB-XC5tHGZ-kDRXJ2rtI5PdkE27SMW0_mDxz10ZasiP5cCDNZFbds7VEtr6zefryKzHC0VmFpdUnkgRFzQB0Xu5BrKw4XD9xey_a3bnE4p78u4JobJg5FQZi5VQ=w800-h620-no" alt="Image 6" style="min-width:1000px" width="900" height="1000">
+
+   	<div class="w3-display-left w3-padding" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-round-large">
+        <h1 class="w3-xlarge">COLLECTIONS 2010 - 2015</h1>
+        <p><button><a class="w3-button w3-block w3-black w3-round onclick="document.getElementById('download').style.display='button'" 	href="file:///D:\PJ1\HTML FILES\resume.html">Back to profile</a></button></p>
+
+	</div>
+    </div>
+  </div>
+
+
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="https://lh3.googleusercontent.com/VlWZ_9IcTUAUt8yr8PPavKLD32FV_QHKR7TvNJRJ_4mbMrG2xIq76E02tpBHwEzb8m28Omsgt565j7hX7WJAyp15ffkqbFHKVJ9e0o4lKlIkP-DbdB7HNg41PAEqXsqbUVjbtN4tqlTOOUw4n7-NceKjVjVG_8vAwk2n464vGrAjgrBYiZH-D6PNoWbioB_lA3gKyS19FUl-EUQ8ol29SUHs1AuKwGkn98pbOx8lkOaQCF33KRa0yJ7mNXR87bEZ8xY_AEzUY5xh1qZZjHODx0huSubEaqWmOBYgB-0TaEzxzgSKjy2cn5-ZZM_19-bkdwI-vdNGiX-68pAnuCHwvCHoNirguv1GOuutA7XgbOHTavfhcToCgjV2UteKU5q2-d1hMHmPyqCZFRC9LXqIGCQgQ6i3rJIFLAWC7ZIE7zKltEmaeiBWUM2-BomOWue54ylOWbFbdcp2oAfi-R1j_UwwiBym0xM1SXfo6G9F0DTkGOwWvhoQ0acs56xKI3mpuTkXhFKn9b3Szzz6ieZzdCWzLLQZnhjpktRilMFGKiY7X7DCv__W_5NiRJ-CT4GDHV0L9jv5BilxH7omp3yB_mNR9wAZRLWcRr6EwtxpiQ=w583-h874-no" alt="Image 7" style="min-width:500px" width="500" height="1000">
+
+   	<div class="w3-display-left w3-padding" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-round-large">
+        <h1 class="w3-xlarge">COLLECTIONS 2010 - 2015</h1>
+        <p><button><a class="w3-button w3-block w3-black w3-round onclick="document.getElementById('download').style.display='button'" 	href="file:///D:\PJ1\HTML FILES\resume.html">Back to profile</a></button></p>
+
+	</div>
+    </div>
+  </div>
+
+
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="https://lh3.googleusercontent.com/c1GyAIGlhCKxXYZGf7OOwECHlpMOyhqm6oLLhi-IuB2LKqLEz5XiUrOIF1sVcJt4vtTuhyppYiAQaqzTMNq_ss_jA-wEleJB3bIhZzR7JgHf3LTQ4IL1BWJXfknJ28LmFaGrwJRCz43f5yxO-IZyOikXDag9_tn7nDkbPUYVFGHPCNqYlObXKLcJaPri5l1YeW8SV6z2CuSme8Nlel753nvsas-OnE2FN6ISv3SuSkSGIDP2j65SSz90nJUcAygZ4idQoo-ZzRbqXm9RolsUH6Mx-zVNp_17W14Eerrp7ILQqn6WlsQ6m_Ez8eVqoPelikwi16av_jl9eNd4Ren8Axx9VTAE_58fGSnHezn2DnlExoUEYbue5t-rxWRt_-TFH-O-rcBhn2KkVgcdNkE5BI4Vgjr-5LaZVuCMhoV_PwqIDZFufTrhJ4CG3aG3aY39V0-BloCk3Et0WeAglvV8-3LAGixdiwSDmnzbg0uZUR-jhdOYye-xXfFTsTEfCqruzbHsxteLDHR0RsXviyUxyOwjZp1NfggPGXiGNnrDJkhWjLhnrWC133VIIyTFi20nYTUhpxkH1_xje8jjxUmpGLEe6CbAAzc6ZLa07v4=w600-h843-no" alt="Image 8" style="min-width:500px" width="500" height="1000">
+
+   	<div class="w3-display-left w3-padding" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-round-large">
+        <h1 class="w3-xlarge">COLLECTIONS 2010 - 2015</h1>
+        <p><button><a class="w3-button w3-block w3-black w3-round onclick="document.getElementById('download').style.display='button'" 	href="file:///D:\PJ1\HTML FILES\resume.html">Back to profile</a></button></p>
+
+	</div>
+    </div>
+  </div>
+
+
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="https://lh3.googleusercontent.com/CFZdfNtMU5NyNUwwtKU-Zfa9bGtmRAG9hs-K92KrtKBN8w_ofdLyN_byN-pYCIubYXeBfRz9WGh8EkqBFlENZ8gnIrknn5y_1vu73kXVpuJcwe3jZzv4crKBxIQG6Lkx82KETxiBum77gvUSJhPLZd4n7kgLC0D65NGJAIcBzGzIUjjQFTZVL4MEJgRRdazVTPPcZTI4kk_xtKGOMMk1HmQh0JLTuAB1HXcLscDXK6CP_gG_JcfZZFr3ekZjAgdINoMsn7BL4vQ8C5GMalaNnAiPd3dPNGV3DBtmhjBqBEVjYrSTPS1PiY5gEnZIHsYnMYKB4O3o-g8eVc8dUnGQJhpOPqP6G83ibOpSE64LRSwYxoA2vqua2Ybott84h5toQaG8yOXVblWeaiffnC46jY1YhzELfiJVJdM83DASFHqZmNaIC2_xBgjJEYfxLS13jzvSmw82MsdI_y_TWvN_Ys-O-ozSCALYb3YrF_cDb9w3mfUYmiqRvn-QNLXEhb-K6UVBJlljQCR13XFkwSpAsohP17WMtuTjs-OMh_0bYwoUyCMllyZorNfAu1xbbKwv_wZHExjGqDLw7YO3wOztKBQVA46CjxotM3z-Q7o=w567-h849-no" alt="Image 9" style="min-width:500px" width="500" height="1000">
+
+   	<div class="w3-display-left w3-padding" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-round-large">
+        <h1 class="w3-xlarge">COLLECTIONS 2010 - 2015</h1>
+        <p><button><a class="w3-button w3-block w3-black w3-round onclick="document.getElementById('download').style.display='button'" 	href="file:///D:\PJ1\HTML FILES\resume.html">Back to profile</a></button></p>
+
+	</div>
+    </div>
+  </div>
+
+
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="https://lh3.googleusercontent.com/mAfv2g8_FEBkBSgjvoPiS_Mu2c8NCTj3T5YHbHFO5mOt6vgW8peSXq3c9ri3JbuwSGEubZ396qDFj303G29RrP0-uubnEL_Yl270BQT9bHVksD7JLmbeWAXmH-pAJHV6utArVFeC1Edgpni-ozcCWKqUUhoH5pq83F3Ns_RIbtX_f93H-0kBCLINvG7Adgu1kIn9ulITmkfWco6p7ii4Nx7azdf9FN3DSWqJdioEszGrKT7rewieis0tX6hUkajRe_g_p8_KP_pKTXZUgwuECrh99VnCVsDGmCW_CaKaZIGzv-ssw50tNmobAbTwBjYNSvws8duXNMsA50Ur81BqtcjcHO_AgXq7mo2T_PcLt7cE4ZlFmKAgaBipl5kPnyT65C1EJksbtgVYWJXO13fceGVysert_EErxcNUHd_M_UsXtAZ1HYgsRhfy0udUnwMDXO7sa6SrLuTPZKgLzYwvUMb6GzW9z4Lr_GjtuG2HNqdfZnarfxSaqyx7B2xBBSFnLPBcE6XIsadnOCQgM13ucEUFsA3R9pI7KzHB9ip5u1frncp8DXj4HnYkL2P4FEEXbeQmR6RDdmEnj3Zgts74rUOzCG8dAWbe1bmhX8JR0Q=w473-h874-no" alt="Image 10" style="min-width:500px" width="500" height="1000">
+
+   	<div class="w3-display-left w3-padding" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-round-large">
+        <h1 class="w3-xlarge">COLLECTIONS 2010 - 2015</h1>
+        <p><button><a class="w3-button w3-block w3-black w3-round onclick="document.getElementById('download').style.display='button'" 	href="file:///D:\PJ1\HTML FILES\resume.html">Back to profile</a></button></p>
+
+	</div>
+    </div>
+  </div>
+
+
+  <a class="w3-button w3-red w3-display-right w3-margin-right w3-round w3-hide-small w3-hover-light-grey" onclick="plusDivs(1)">More images <i class="fa fa-angle-right"></i></a>
+  <a class="w3-button w3-block w3-black w3-hide-large w3-hide-medium" onclick="plusDivs(1)">Scroll here <i class="fa fa-angle-right"></i></a>
+</header>
+<hr
+
+
+  <!-- Images grid -->
+  <div class="w3-row">
+    <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <img src="https://lh3.googleusercontent.com/GL9D1_H18weoYhdXyHrnAXX5UW6VTTROIiwGheRegRfHsbGp0a-ODg9EbYyCoFSM6q42rP5kZhyjF9QduuYeosvC-V63Hgk6ZiGQH77I0COn48_Juq8L7UYfsxb1xv-L8ddXy410t6WEQinSxa4iS-0vhkYNgg7BPly2rht1sNy9pmqut2ORfqHUGqUMtAYEz5WIebIbxujt009jLbLr4xV7UifHyJcltNbBUOp3AsjhuwgBZd8CP5ATVWgfc_wqL4kVb5luO0tpvGMLwTerMpPQJtBfFW3LFYDTZiY8trEKFw5LwwtVNYK4HaVPon5tXzWDZk1xlPQRFWGCwpn3SwWcM4h-5Xnid_t62d2gIkelZYpSF9-sCO2VH8FtKATyiUpWn-DyzIIk2VqIlt0SBKYcvvSrW-VIE3r_SOIptKMxbkOPxgAvM_SsemgsVcCG9bHQoPFZGCy2pOIdavylaRO0gFpR3xrNmOY74ebYK4pgsuJG1GgbzP5FT0QhnRZYrlyyRNE7yLAm5qhO4aU60mH25iJoV-Vuc3Y98C1g5Ng1Y-5ulHfXlpXylMHx6h5XZZixbJBp-1QFiHYO6Kuy6gBg9HUMYuSRn-Rdlmvc6g=w489-h720-no" style="width:100%">
+      </div>
+      </div>
+
+
+    <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <div class="w3-display-container">
+          <img src="https://lh3.googleusercontent.com/zVnxO9QiuWwcs2T6pfpZWdd7xS93876EEWRUUPySfwi29bMOJ_t4S4MYqjEOL4TzTFrnTDV6shISAkRHu7SN7lSW1KCA6geP2jshXODJYB1QNZoP5frlkPl5q20VRssaur5A-vNm2ExOLNJdCTFTairyyWMj5iRnF4H8KJFrNSFzfSNEjJbP5iKi0rtu5LV8JUHXbzs7cPsTxu_VJgNfEOSKqBGn-j8p5qPlpgoy_5B4odCH3tHh_3TO7jeqDzRF3mzbtrtXAqje1qIyJY2iq-2ea3xE_mFyrBYLdhGFX3b1tK4kXNaibOhIMOuyHH0S67UrOK1MNbjX5jvYVbJPG0hlsx1E5pvWNe8BKct1ebYsy64ZHa9HgWSXFRj0sgAkZ3o4mMBLiRLvlZTuz3MsWcL_rw7fImfZoIjJ4vPuXgKck3eOzkuR5I6mny7UxTEC7Hv-9UN8pWZ4A9Hgf023h4ZKWHnI6aEqLtVyi3Hm7xK2vxIDRnxQVuGQehosx8z-QO4KFX9KBbpRWpnqdZWTCSYIMNMLn3_620QGc7V5RcL9U0mGmwINUwK31YwghQ9cv3aY0LDWnfdW0cWKx_3pQp1Gpbx_N95K3Iv89q3y0A=w600-h900-no" style="width:100%">
+       </div>
+     </div>
+    </div>
+
+
+    <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <div class="w3-display-container">
+          <img src="https://lh3.googleusercontent.com/KTPspCyh-EsuIj1Ukt1g6xuUcX8AM30EBwDm1wMD5wbI23QoIgh1f_1cBBJ6i3S4zehx6wM5hZL-K5-I130m865wuxD5u5KAz7_I6wj5sM5NUEmPzxsQtJrAySJsLRrsnegTdrT8PNocYb4maRDcUZDBwJcvAPOEugQSTEhJDgEjkpozRWLwbGtnDIRyys7Utp7vlgVrWpMF5BfgXtI6EVbpV8MYbsNGHhNQs4O24TSGz_eTuGrDj5y-wJ1X14FiO5zgRI23cprztOEE_whRnosnuxHpEXNclTe3hcH_s27AQ9tUkHmltPoU_Dxm3dxynwFG7fQxuIf8DaNdojoXAB0lV5lURodEKVRt19Z8AlFCRc8Dc1c895_iOOXBkoqfzxQfm23jPpsKK1IOQC1Pf_YNAFyhtQXl9aQk8PIEm9dUneoJwJVHmiLJ5U0-1J6tLHKzHnOJ9G_Ry8KC8w3vb6lyTXNe_9XiheJIgy4xbPpzhJ32tbI2XVpgnX0MisKvbSiYHCJBYTqjCi1Ryc_vi_W_0mrhlJAWj-HOak6-9P1WxP7G8q8ikTbeRfZSteH43dHpKCfBs-DEs59nrjQ-bBVssUfc9JVAbCZhwS8GCA=w477-h720-no" style="width:100%">
+       </div>
+     </div>
+  </div>
+
+
+
+    <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <div class="w3-display-container">
+          <img src="https://lh3.googleusercontent.com/zqgOPqVDGSIzcH0A1lR03Z3NJcqhMJ8bdodmTM1cct0hpvqkhYNJ2ANjdvc_9XVzsc7A76_-QVdmrVHLpbCaqT8R0-mpd5LBwKzruxIHySfW1fke7Me_7LkRDl67kERQCZDbuNQe0-t_DcykJ1dsAOJKe793Prqg3yo_4YgGI-5sMHYEKtIygZaKRojJOMJ98ZTUyruwEq63gXQj6wZ8rSR7TKTZdq9wnVZ5tiri1wwySzXvZKiS7K_qBdingxi43Yrh67ZGN5QRDmY_5_ezGRTy7tDCOnTepesh7ow9-izLO_IUvb6fYRaPJy4AHM4jG-oke24DloF8j0JYvZTtVhUzELi3a0j1aoACmwJzaXi34HQT-9mpahfoRtR6RMx5xbWZQZOAiSH-DqCNKf84aU6XZ6usgupwsLbBPeTw3NSN47W2bXQxvbdBOUTIEv0ft8pEbipYolZHyicBzp6LrygJW4GqqhAgAUAOUeE1fP8e8u_Gn2-DUFac7_DWVRhgzCwbQZGmX1E0z0m0by_7--A1MJ5-mr1Du_155EYYhc764Qr-7trcj_v9miuwHtTtQhsVQHSRx1nB-9kTitKtVmuhyHkZmfTHsnXXnsbiUw=w579-h874-no" style="width:100%">
+       </div>
+     </div>
+  </div>
+
+
+
+<!-- Aesthetic Section -->
+<div class="w3-padding-50 w3-light-grey">
+  <div class="w3-row-padding">
+    <div class="w3-col 16 m6">
+      <h1 class="w3-jumbo"><b>Inspiration</b></h1>
+      <h2 class="w3-xxlarge w3-text-red"><b>Evolution of the mind.</b></h2>
+      <p><span class="w3-xlarge">I made my first </span> dress at the age of 8. My inspiration was a tiny skirt that our housekeeper made for my doll from a handkerchief. I had never seen anything so magical!! I fumbled with the needle and thread until my fingers bled and my version still looked like a rug when i it was done. I wanted perfection, i wanted magic, so i pushed myself and i have been pushing myself since. <br> My sources of inspiration have evolved with time but even in my deepest "designer's block" i still manage to find inspiration from the memory of that tiny piece of fabric in the corner of my my beroom where it all began.</p>
+	</div>
+  </div>
+</div>
+
+
+<!-- Footer -->
+<footer class="w3-container">
+  <div class="w3-section w3-center">
+<p><i class="fa fa-heart w3-large w3-text-red">Thank you</i></p>
+<p>@Claire Tendo</p>
+</div>
+</footer>
+
+<script>
+// Slideshow
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+</body>
+</html>
